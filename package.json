@@ -1,0 +1,19 @@
+{
+  "name": "word_counter_nish_5project",
+  "version": "1.0.0",
+  "description": "A word counter with typescript,node js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NOUSHEEN_ASIM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
